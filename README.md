@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hey there ✌, I am Subhendu Dash and welcome to my GitHub Profile.
+I am Subhendu Dash and welcome to my GitHub Profile.
