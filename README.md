@@ -27,3 +27,4 @@ My social-network handles:
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=subhendudash02)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subhendudash02&count_private=true&theme=tokyonight)
