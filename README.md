@@ -26,5 +26,5 @@ My social-network handles:
 4. StackOverflow: https://stackoverflow.com/users/14406184/subhendu-dash
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=subhendudash02)
+![Github stats](https://github-readme-stats.vercel.app/api?username=subhendudash02&theme=tokyonight)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subhendudash02&count_private=true&theme=tokyonight)
