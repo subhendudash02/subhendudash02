@@ -19,6 +19,8 @@ I am Subhendu Dash and welcome to my GitHub Profile.
 Visit my website:
 https://subhendudash02.github.io
 
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=subhendudash02.visitor-badge)
+
 My social-network handles:
 1. Twitter: https://twitter.com/SubuDash
 2. Instagram: https://instagram.com/subudash02
