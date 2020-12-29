@@ -23,7 +23,7 @@ https://subhendudash02.github.io
 
 My social-network handles:
 1. Twitter: https://twitter.com/SubuDash
-2. Instagram: https://instagram.com/subudash02
+2. Instagram: https://instagram.com/subu.dash
 3. Linkedin: https://www.linkedin.com/in/subhendu-dash-b352551b8/
 4. StackOverflow: https://stackoverflow.com/users/14406184/subhendu-dash
 
