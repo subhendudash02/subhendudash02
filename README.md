@@ -22,7 +22,7 @@ https://subhendudash02.github.io
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=subhendudash02.visitor-badge)
 
 My social-network handles:
-1. Twitter: https://twitter.com/__Subu__Dash__
+1. Twitter: https://twitter.com/Subu_Dash
 2. Instagram: https://instagram.com/subu.dash
 3. Linkedin: https://www.linkedin.com/in/subhendu21/
 4. StackOverflow: https://stackoverflow.com/users/14406184/subhendu-dash
