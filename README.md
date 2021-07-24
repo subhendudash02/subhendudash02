@@ -30,7 +30,10 @@ I am Subhendu Dash and welcome to my GitHub Profile.
 
 # My Stats📈
 
+<div align = "center">
+
 ### Most Used Languages
+  
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subhendudash02&count_private=true&theme=tokyonight)
 
 ### Github Stats
