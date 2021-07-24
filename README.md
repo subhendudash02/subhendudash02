@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **subhendudash02/subhendudash02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,8 +16,10 @@ Here are some ideas to get you started:
 -->
 
 I am Subhendu Dash and welcome to my GitHub Profile.
-Visit my website:
-https://subhendudash02.github.io
+### Visit my website: [Subhendu Dash | Portfolio](https://subhendudash02.github.io)
+
+#My Contributions
+![My Activity](https://activity-graph.herokuapp.com/graph?username=subhendudash02&theme=xcode)
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=subhendudash02.visitor-badge)
 
