@@ -18,17 +18,25 @@ Here are some ideas to get you started:
 I am Subhendu Dash and welcome to my GitHub Profile.
 ### Visit my website: [Subhendu Dash | Portfolio](https://subhendudash02.github.io)
 
-#My Contributions
+# My Contributions
 ![My Activity](https://activity-graph.herokuapp.com/graph?username=subhendudash02&theme=xcode)
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=subhendudash02.visitor-badge)
+# Don't Hesitate to Contact 🤝🏼
+[![Website](https://img.shields.io/badge/Website-Subhendu%20Dash-%3Cbackground%20color%3E.svg?&style=for-the-badge&logo=none)](https://subhendudash02.github.io/)
+[![Twitter](https://img.shields.io/badge/Twitter-SubhenduDash02-blue.svg?&style=for-the-badge&logo=twitter)](https://www.twitter.com/SubhenduDash02/)
+[![Instagram](https://img.shields.io/badge/Instagram-subu.dash-pink.svg?&style=for-the-badge&logo=instagram)](https://www.instagram.com/subu.dash/)
+[![Youtube](https://img.shields.io/badge/Youtube-subhendu%20Dash-red.svg?&style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCYawRTVHxMGvFMXW_fzcJfw)
+[![Github](https://img.shields.io/badge/Github-subhendudash02-black.svg?&style=for-the-badge&logo=github)](https://github.com/subhendudash02/)
 
-My social-network handles:
-1. Twitter: https://twitter.com/Subu_Dash
-2. Instagram: https://instagram.com/subu.dash
-3. Linkedin: https://www.linkedin.com/in/subhendu21/
-4. StackOverflow: https://stackoverflow.com/users/14406184/subhendu-dash
+# My Stats📈
 
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=subhendudash02&theme=tokyonight)
+### Most Used Languages
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subhendudash02&count_private=true&theme=tokyonight)
+
+### Github Stats
+
+![Statistics](https://github-readme-stats.vercel.app/api?username=subhendudash02&show_icons=true&theme=tokyonight)
+
+### Streaks
+
+![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=subhendudash02&theme=tokyonight)
