@@ -15,18 +15,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Subhendu Dash and welcome to my GitHub Profile.
+I am Subhendu Dash. I am an Electrical Engineering student in VIT Chennai.
+
 ### Visit my website: [Subhendu Dash | Portfolio](https://subhendudash02.github.io)
 
 # My Contributions
 ![My Activity](https://activity-graph.herokuapp.com/graph?username=subhendudash02&theme=xcode)
 
 # Don't Hesitate to Contact 🤝🏼
-[![Website](https://img.shields.io/badge/Website-Subhendu%20Dash-%3Cbackground%20color%3E.svg?&style=for-the-badge&logo=none)](https://subhendudash02.github.io/)
+| [![Website](https://img.shields.io/badge/Website-Subhendu%20Dash-%3Cbackground%20color%3E.svg?&style=for-the-badge&logo=none)](https://subhendudash02.github.io/) |
+|----------------------------------------------|
 [![Twitter](https://img.shields.io/badge/Twitter-SubhenduDash02-blue.svg?&style=for-the-badge&logo=twitter)](https://www.twitter.com/SubhenduDash02/)
 [![Instagram](https://img.shields.io/badge/Instagram-subu.dash-pink.svg?&style=for-the-badge&logo=instagram)](https://www.instagram.com/subu.dash/)
 [![Youtube](https://img.shields.io/badge/Youtube-subhendu%20Dash-red.svg?&style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCYawRTVHxMGvFMXW_fzcJfw)
 [![Github](https://img.shields.io/badge/Github-subhendudash02-black.svg?&style=for-the-badge&logo=github)](https://github.com/subhendudash02/)
+[![Reddit](https://img.shields.io/badge/Reddit-Insane_Boi_-red.svg?&style=for-the-badge&logo=reddit)](https://www.reddit.com/user/Insane_Boi_)
+
 
 # My Stats📈
 
