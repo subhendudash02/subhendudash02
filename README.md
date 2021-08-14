@@ -42,7 +42,7 @@ I am Subhendu Dash. I am an Electrical Engineering student in VIT Chennai.
 
 ### Github Stats
 
-![Statistics](https://github-readme-stats.vercel.app/api?username=subhendudash02&show_icons=true&theme=tokyonight)
+![Statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=subhendudash02&layout=compact&theme=monokai&langs_count=10)
 
 ### Streaks
 
