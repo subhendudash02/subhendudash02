@@ -38,12 +38,12 @@ I am Subhendu Dash. I am an Electrical Engineering student in VIT Chennai.
 
 ### Most Used Languages
   
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subhendudash02&count_private=true&theme=tokyonight)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subhendudash02&layout=compact&theme=monokai&langs_count=10)
 
 ### Github Stats
 
-![Statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=subhendudash02&layout=compact&theme=monokai&langs_count=10)
+![Statistics](https://github-readme-stats.vercel.app/api?username=subhendudash02&show_icons=true&theme=monokai)
 
 ### Streaks
 
-![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=subhendudash02&theme=tokyonight)
+![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=subhendudash02&theme=monokai)
