@@ -15,16 +15,38 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Subhendu Dash. I am an Electrical Engineering student in VIT Chennai.
+💻 Undergrad Student in Vellore Institute of Technology, Chennai<br>
+:heart: Loves to build things<br>
+🎧 Music Lover<br>
+:snake: Pythonista
+
 
 ### Visit my website: [Subhendu Dash | Portfolio](https://subhendudash02.github.io)
+
+# My Skills
+<div>
+  <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height = "50px" width = "50px"></img>
+  <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height = "50px" width = "50px"></img>
+  <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height = "50px" width = "50px"></img>
+  <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height = "50px" width = "50px"></img>
+  <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height = "50px" width = "50px"></img>
+  <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height = "50px" width = "50px"></img>
+  <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height = "50px" width = "50px"></img>
+  <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height = "50px" width = "50px"></img>
+  <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height = "50px" width = "50px"></img>
+</div>
+<br>
+I have worked on<br>
+1. <b>Python:</b> Basic libraries and web frameworks like Flask and Django. Also used ML libraries like scikit-learn, Tensorflow, etc.<br>
+2. <b>C and C++: </b> For Competitive Programming.<br>
+3. <b>HTML, CSS, Bootstrap: </b> For front-end development.<br>
+4. <b>JS and React: </b> Learning since a month, currently new to this language.<br>
 
 # My Contributions
 ![My Activity](https://activity-graph.herokuapp.com/graph?username=subhendudash02&theme=xcode)
 
 # Don't Hesitate to Contact 🤝🏼
-| [![Website](https://img.shields.io/badge/Website-Subhendu%20Dash-%3Cbackground%20color%3E.svg?&style=for-the-badge&logo=none)](https://subhendudash02.github.io/) |
-|----------------------------------------------|
+[![Website](https://img.shields.io/badge/Website-Subhendu%20Dash-%3Cbackground%20color%3E.svg?&style=for-the-badge&logo=none)](https://subhendudash02.github.io/)
 [![Twitter](https://img.shields.io/badge/Twitter-SubhenduDash02-blue.svg?&style=for-the-badge&logo=twitter)](https://www.twitter.com/SubhenduDash02/)
 [![Instagram](https://img.shields.io/badge/Instagram-subu.dash-pink.svg?&style=for-the-badge&logo=instagram)](https://www.instagram.com/subu.dash/)
 [![Youtube](https://img.shields.io/badge/Youtube-subhendu%20Dash-red.svg?&style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCYawRTVHxMGvFMXW_fzcJfw)
