@@ -35,6 +35,7 @@ Here are some ideas to get you started:
   <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height = "50px" width = "50px"></img>
   <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height = "50px" width = "50px"></img>
   <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height = "50px" width = "50px"></img>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height = "50px" width = "50px"></img>
 </div>
 <br>
 I have worked on<br>
