@@ -21,10 +21,9 @@ Here are some ideas to get you started:
 🎧 Music Lover<br>
 :snake: Pythonista
 
+<br><hr><br>
 
-### Visit my website: [Subhendu Dash | Portfolio](https://subhendudash02.github.io)
-
-# My Skills
+# I am familiar in
 <div>
   <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height = "50px" width = "50px"></img>
   <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height = "50px" width = "50px"></img>
@@ -38,25 +37,33 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height = "50px" width = "50px"></img>
 </div>
 <br>
-I have worked on<br>
-1. <b>Python:</b> Basic libraries and web frameworks like Flask and Django. Also used ML libraries like scikit-learn, Tensorflow, etc.<br>
-2. <b>C and C++: </b> For Competitive Programming.<br>
-3. <b>HTML, CSS, Bootstrap: </b> For front-end development.<br>
-4. <b>JS and React: </b> Learning since a month, currently new to this language.<br>
+1. <b>Web Dev: </b> Proficient with HTML, CSS, JavaScript and its frameworks like ReactJS and Svelte.<br>
+2. <b>App Dev: </b> Recently started in Android App Development. New to Flutter.<br>
+3. <b>Machine Learning: </b> New to ML and having minimal knowledge with the Python libraries like Tensorflow and Scikit-Learn.
+
+<br><hr><br>
 
 # My Contributions
 ![My Activity](https://activity-graph.herokuapp.com/graph?username=subhendudash02&theme=xcode)
 
-# Don't Hesitate to Contact 🤝🏼
-[![Website](https://img.shields.io/badge/Website-Subhendu%20Dash-%3Cbackground%20color%3E.svg?&style=for-the-badge&logo=none)](https://subhendudash02.github.io/)
-[![Twitter](https://img.shields.io/badge/Twitter-SubhenduDash02-blue.svg?&style=for-the-badge&logo=twitter)](https://www.twitter.com/SubhenduDash02/)
-[![Instagram](https://img.shields.io/badge/Instagram-subu.dash-pink.svg?&style=for-the-badge&logo=instagram)](https://www.instagram.com/subu.dash/)
-[![Youtube](https://img.shields.io/badge/Youtube-subhendu%20Dash-red.svg?&style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCYawRTVHxMGvFMXW_fzcJfw)
-[![Github](https://img.shields.io/badge/Github-subhendudash02-black.svg?&style=for-the-badge&logo=github)](https://github.com/subhendudash02/)
-[![Reddit](https://img.shields.io/badge/Reddit-Insane_Boi_-red.svg?&style=for-the-badge&logo=reddit)](https://www.reddit.com/user/Insane_Boi_)
+<br><hr><br>
 
+# Follow me on 🤝🏼
 
-# My Stats📈
+| Name | Link |
+| ----- | ----- |
+| Twitter | [![Twitter](https://img.shields.io/badge/Twitter-SubhenduDash02-blue.svg?&style=for-the-badge&logo=twitter)](https://www.twitter.com/SubhenduDash02/) |
+| Instagram | [![Instagram](https://img.shields.io/badge/Instagram-subu.dash-pink.svg?&style=for-the-badge&logo=instagram)](https://www.instagram.com/subu.dash/) |
+| YouTube | [![Youtube](https://img.shields.io/badge/Youtube-subhendu%20Dash-red.svg?&style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCYawRTVHxMGvFMXW_fzcJfw) |
+| Reddit | [![Reddit](https://img.shields.io/badge/Reddit-Insane_Boi_-red.svg?&style=for-the-badge&logo=reddit)](https://www.reddit.com/user/Insane_Boi_) |
+| GitHub | [![Github](https://img.shields.io/badge/Github-subhendudash02-black.svg?&style=for-the-badge&logo=github)](https://github.com/subhendudash02/) |
+| StackOverflow | [![StackOverflow](https://img.shields.io/badge/StackOverflow-Subhendu%20Dash-orange.svg?&style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/14406184/subhendu-dash) |
+
+<b>Visit my website: </b> [Subhendu Dash | Portfolio](https://subhendudash02.github.io)
+
+<br><hr><br>
+
+# My Stats 📈
 
 <div align = "center">
 
@@ -71,3 +78,8 @@ I have worked on<br>
 ### Streaks
 
 ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=subhendudash02&theme=monokai)
+
+<br><hr><br>
+  
+<b>Watch my contribution graph being eaten by a Snake! 🐍</b>
+![Snake](images/snake.svg)
