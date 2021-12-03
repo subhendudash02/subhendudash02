@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 | Reddit | [![Reddit](https://img.shields.io/badge/Reddit-Insane_Boi_-red.svg?&style=for-the-badge&logo=reddit)](https://www.reddit.com/user/Insane_Boi_) |
 | GitHub | [![Github](https://img.shields.io/badge/Github-subhendudash02-black.svg?&style=for-the-badge&logo=github)](https://github.com/subhendudash02/) |
 | StackOverflow | [![StackOverflow](https://img.shields.io/badge/StackOverflow-Subhendu%20Dash-orange.svg?&style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/14406184/subhendu-dash) |
+| LinkedIn | [![LinkedIn](https://img.shields.io/badge/linkedin-subhendu21-blue.svg?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/subhendu21/) |
 
 <b>Visit my website: </b> [Subhendu Dash | Portfolio](https://subhendudash02.github.io)
 
