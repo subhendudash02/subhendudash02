@@ -5,19 +5,21 @@
 🎧 Music Lover<br>
 :snake: Pythonista
 
+![Profile Views](https://komarev.com/ghpvc/?username=subhendudash02&color=blueviolet)
+
 <br>
 
 ## I am familiar in
 
 <div>
-  <img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black"></img>
-  <img src = "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=black"></img>
-  <img src = "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=black"></img>
-  <img src = "https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=black"></img>
-  <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=black"></img>
-  <img src = "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=black"></img>
-  <img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></img>
-  <img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></img>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black"></img>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=black"></img>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=black"></img>
+  <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=black"></img>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=black"></img>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=black"></img>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></img>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></img>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=black"></img>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=black"></img>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=black"></img>
@@ -42,11 +44,15 @@
 
 1. [Color Converter](https://github.com/subhendudash02/RGB-HEX-and-HEX-RGB): Converts RGB to HEX and vice-versa
 2. LGMVIP'21 ([Task-1](https://github.com/subhendudash02/LetsGrowMore-WebDev-Task-1), [Task-2](https://github.com/subhendudash02/LetsGrowMore-WebDev-Task-2)): Lets Grow More tasks
-3. [GWOC'21](https://github.com/subhendudash02/GWOC21-contributions): My contributions to Girlscript Winter of Contributing
-4. [Github Profile Fetcher](https://github.com/subhendudash02/github-profile-fetcher): Fetches profile of an user using ReactJS
-5. [Hangman](https://github.com/subhendudash02/hangman): Hangman game using HTML, CSS, JavaScript
+3. [GWOC'21](https://github.com/subhendudash02/GWOC21-contributions): My contributions to Girlscript Winter of Contributing ([repo](https://github.com/girlscript/winter-of-contributing))
+4. [Github Profile Fetcher](https://github.com/subhendudash02/github-profile-fetcher): Fetches profile of an user using ReactJS ([link](https://subhendudash02.github.io/github-profile-fetcher/))
+5. [Hangman](https://github.com/subhendudash02/hangman): Hangman game using HTML, CSS, JavaScript ([link](https://subhendudash02.github.io/hangman/))
 6. [Dynamic Bot](https://github.com/subhendudash02/Dynamic-Bot): Discord bot written in Python(discord.py) which helps to give reminder of a particular event set by an user
-7. [Gauss-Seidel Method](https://github.com/subhendudash02/Gauss-Seidel): Website which helps to solve a set of linear equation (for my math course) 
+7. [Gauss-Seidel Method](https://github.com/subhendudash02/Gauss-Seidel): Website which helps to solve a set of linear equation for my math course ([link](https://gauss-seidel.netlify.app/)) 
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-blueviolet.svg?&style=for-the-badge)](https://subhendudash02.github.io/)
 
 <br>
 
