@@ -1,4 +1,4 @@
-![MastHead](images/banner.jpg)
+![MastHead](images/banner_2.svg)
 
 💻 Undergrad Student in Vellore Institute of Technology, Chennai<br>
 :heart: Loves to build things<br>
