@@ -49,6 +49,7 @@
 5. [Hangman](https://github.com/subhendudash02/hangman): Hangman game using HTML, CSS, JavaScript ([link](https://subhendudash02.github.io/hangman/))
 6. [Dynamic Bot](https://github.com/subhendudash02/Dynamic-Bot): Discord bot written in Python(discord.py) which helps to give reminder of a particular event set by an user
 7. [Gauss-Seidel Method](https://github.com/subhendudash02/Gauss-Seidel): Website which helps to solve a set of linear equation for my math course ([link](https://gauss-seidel.netlify.app/)) 
+8. [Numerical Methods](https://github.com/subhendudash02/numerical-methods): A website which demonstrates different iterative numerical methods to solve a single equation as well as system of equations upto 100 iterations instantly. ([link](https://numerical-methods.netlify.app/))
 
 <br>
 
