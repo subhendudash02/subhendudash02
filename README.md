@@ -67,7 +67,7 @@
 
 ### Most Used Languages
   
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subhendudash02&layout=compact&theme=monokai&langs_count=5)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subhendudash02&layout=compact&theme=monokai&langs_count=10)
 
 ### Github Stats
 
