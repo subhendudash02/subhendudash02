@@ -21,7 +21,7 @@
 <br>
 
 ## Familiar in 
-<hr><br>
+<br>
 
 <div align="center">
  <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=black"></img>  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=black"></img> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></img> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=black"></img> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></img> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=black"></img> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=black"></img>
@@ -33,8 +33,8 @@
 
 <br>
 
-## My Socials
-<hr><br>
+## Socials
+<br>
 
 <div align="center">
 
@@ -45,13 +45,14 @@
 [![Github](https://img.shields.io/badge/Github-subhendudash02-black.svg?&style=for-the-badge&logo=github)](https://github.com/subhendudash02/)
 [![StackOverflow](https://img.shields.io/badge/StackOverflow-Subhendu%20Dash-orange.svg?&style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/14406184/subhendu-dash)
 [![LinkedIn](https://img.shields.io/badge/linkedin-subhendu21-blue.svg?&style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/subhendu21/)
+[![dev.to](https://img.shields.io/badge/dev.to-subhendudash02-black.svg?&style=for-the-badge&logo=dev.to)](https://dev.to/subhendudash02)
 
 </div>
 
 <br>
 
-## My Projects
-<hr><br>
+## Projects
+<br>
 
 | Project | Description | Tech-Stack |
 | ------- | ----------- | -----------|
@@ -67,8 +68,13 @@
 
 <br>
 
-## My Stats
-<hr><br>
+## Articles and Blogs
+<br>
+
+ - [Linux Job Scheduling using Python](https://dev.to/subhendudash02/linux-job-scheduling-using-python-115k)
+
+## Stats
+<br>
 
 <div align="center">
 
@@ -94,4 +100,4 @@
 
   ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=subhendudash02&theme=darcula)
 
-</details>
+</div>
