@@ -35,18 +35,9 @@ I wrote some articles too. Check it out:
  - [Linux Job Scheduling using Python](https://dev.to/subhendudash02/linux-job-scheduling-using-python-115k)
  - [Drag and Drop in HTML and JavaScript](https://dev.to/subhendudash02/drag-and-drop-feature-in-html-and-vanilla-js-2nk0)
 
-I have experience in:
+I have experience in
  - HTML5 and CSS3
  - Python - have good knowledge in backend libraries, making CLI and GUI applications.
  - JavaScript - have good knowledge in React and NodeJS, decent knowledge about TypeScript.
  - C and C++
  - Linux (I use Arch btw ;))
-
-<br>
-
-<div align="center">
- 
-  ![Statistics](https://github-readme-stats.vercel.app/api?username=subhendudash02&show_icons=true&theme=darcula)
-  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=subhendudash02&theme=darcula)
-
-</div>
