@@ -2,8 +2,8 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-blueviolet.svg?&style=for-the-badge)](https://www.subhendu.tech/)
-[![Resume](https://img.shields.io/badge/Resume-darkgreen.svg?&style=for-the-badge)](https://www.subhendu.tech/resume/Subhendu_Dash.pdf)
+[![Portfolio](https://img.shields.io/badge/Portfolio-blueviolet.svg?&style=for-the-badge)](https://subhendudash02.github.io/)
+[![Resume](https://img.shields.io/badge/Resume-darkgreen.svg?&style=for-the-badge)](https://subhendudash02.github.io/resume/Subhendu_Dash.pdf)
 
 </div>
 
