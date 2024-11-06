@@ -1,4 +1,4 @@
-![MastHead](images/banner_2.svg)
+<!-- ![MastHead](images/banner_2.svg) -->
 
 <div align="center">
 
